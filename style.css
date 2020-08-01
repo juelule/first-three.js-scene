@@ -1,0 +1,5 @@
+body {
+    /* sets margin to 0 and overflow to hidden to use complete page */
+    margin: 0;
+    overflow: hidden;
+}
